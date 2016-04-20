@@ -1,12 +1,9 @@
-*Jeffrey Lau*
-
 ## Android Support Library 译文
 
-> 原文地址：http://developer.android.com/tools/support-library/index.html
-> 
-> Android Support Library
-> 
-> Android 支持库
+> *By 刘杰辉 ( Jeffrey Lau ) [ [GitHub](https://github.com/jeffreylau7) ] [ [CSDN](http://blog.csdn.net/jeffreylau7) ]*
+
+
+原文地址：http://developer.android.com/tools/support-library/index.html
 
 Android Support Library包是一个代码库的集合，这个集合提供Android framework API的向下兼容版本，并提供原本只通过库（译者注：这个库指新版本的库）的API才能使用的功能。每一个Support Library是针对一个特定的Android API级别向下兼容的。这种设计意味着你的应用可以使用库（译者注：这个库指新版本的库）的功能，并且可以和运行Android1.6（API level 4）或以上版本的设备兼容。
 

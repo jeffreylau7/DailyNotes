@@ -1,6 +1,6 @@
-*Jeffrey Lau*
-
 ## DailyNotes
+
+> *By 刘杰辉 ( Jeffrey Lau ) [ [GitHub](https://github.com/jeffreylau7) ] [ [CSDN](http://blog.csdn.net/jeffreylau7) ]*
 
 日常笔记，记录下来以防“老人痴呆”
 

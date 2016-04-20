@@ -1,6 +1,6 @@
-*Jeffrey Lau*
-
 ## RecyclerView 的什么？
+
+> *By 刘杰辉 ( Jeffrey Lau ) [ [GitHub](https://github.com/jeffreylau7) ] [ [CSDN](http://blog.csdn.net/jeffreylau7) ]*
 
 RecyclerView 是ListView、GridView的升级融合版，提供更好的通用性和更多的自由度，在日常开发中扮演着相当重要的角色，在展示文字图片列表时可以使用RecyclerView 来实现，所以需要重点学习。
 

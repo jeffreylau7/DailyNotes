@@ -1,6 +1,6 @@
-*Jeffrey Lau*
+## Git 日常操作指南
 
-## 写在最前
+> *By 刘杰辉 ( Jeffrey Lau ) [ [GitHub](https://github.com/jeffreylau7) ] [ [CSDN](http://blog.csdn.net/jeffreylau7) ]*
 
 Git 可以做什么？
 
@@ -69,6 +69,24 @@ Linux和MacOSX这些类Unix系统的用git都很方便，大多都集成在系�
 这样就可以把今天公司工作的代码同步到家里的电脑里面了，可以继续修改代码了。
 
 改好代码了就把代码推送到网络远程仓库，好让明天回公司可以用。
+
+## 查看之前的提交
+
+查看提交的项目历史日志
+
+    git log --oneline
+
+    a1e8fb5 对hello.java做了一些修改
+    435b61d 创建hello.java
+    9773e52 初始导入
+
+查看之前的提交
+
+    git checkout 435b61d
+
+回到当前状态
+
+    git checkout master
 
 ## 分支的概念
 
